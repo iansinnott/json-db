@@ -1,0 +1,21 @@
+{
+  "name": "json-db",
+  "version": "0.1.0",
+  "description": "A tool for storing data as JSON.",
+  "main": "json-db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "database",
+    "json"
+  ],
+  "engines": {
+    "node": ">=0.11.14"
+  },
+  "author": "Ian Sinnott <ian@iansinnott.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
